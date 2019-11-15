@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.data1{
+  background-color: silver;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.data2{
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.MuiTypography-body1{
+  width: 100%;
+}
+
+a {
+  color: black;
+}
